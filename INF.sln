@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INF", "INF.csproj", "{4757AE39-030F-4EEA-BE30-7D0C439E7EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeAreDevs_API", "..\..\..\Downloads\WeAreDevsAPI-main\WeAreDevsAPI-main\WeAreDevs_API.csproj", "{75A44383-D336-4FDC-9513-9E116A227BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4757AE39-030F-4EEA-BE30-7D0C439E7EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4757AE39-030F-4EEA-BE30-7D0C439E7EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4757AE39-030F-4EEA-BE30-7D0C439E7EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4757AE39-030F-4EEA-BE30-7D0C439E7EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A44383-D336-4FDC-9513-9E116A227BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A44383-D336-4FDC-9513-9E116A227BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A44383-D336-4FDC-9513-9E116A227BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A44383-D336-4FDC-9513-9E116A227BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E949A21-C49F-4B38-B676-1C9666F08D40}
+	EndGlobalSection
+EndGlobal
